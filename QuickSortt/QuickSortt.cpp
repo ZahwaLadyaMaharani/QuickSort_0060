@@ -4,5 +4,7 @@
 #include <iostream>
 using namespace std;
 
-//arrat of integers to hold values
+//array of integers to hold values
 int arr[20];
+int cmp_count = 0; //number of comprasion
+
