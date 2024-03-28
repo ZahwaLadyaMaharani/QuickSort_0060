@@ -3,3 +3,6 @@
 
 #include <iostream>
 using namespace std;
+
+//arrat of integers to hold values
+int arr[20];
